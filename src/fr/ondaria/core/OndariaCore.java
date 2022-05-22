@@ -10,7 +10,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import java.util.logging.Logger;
 
 public class OndariaCore extends JavaPlugin {
-
+a
     @Override
     public void onEnable() {
         log = Logger.getLogger("Minecraft");

@@ -7,22 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82fdaeee-e057-4c62-9deb-cc1adddc3344" name="Changes" comment="Maintenance, Welcome,">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Ondaria.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/PlaceholderAPI_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OndariaCore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ressource/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ressource/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/ondaria/core/OndariaCore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/ondaria/core/commands/CMaintenance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/ondaria/core/commands/CWelcome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/ondaria/core/listener/PlayerLogListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/ondaria/core/manager/MaintenanceManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/ondaria/core/manager/WelcomeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/ondaria/core/OndariaCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/ondaria/core/OndariaCore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +39,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/olive/IdeaProjects/OndariaCore/ressource",
     "project.structure.last.edited": "Artifacts",
@@ -76,8 +60,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653238115758</updated>
-      <workItem from="1653238117051" duration="7249000" />
+      <workItem from="1653238117051" duration="7489000" />
     </task>
+    <task id="LOCAL-00001" summary="Maintenance, Welcome,">
+      <created>1653248809069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653248809069</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Maintenance, Welcome,">
+      <created>1653248830485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653248830485</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
