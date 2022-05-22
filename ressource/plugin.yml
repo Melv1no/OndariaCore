@@ -1,0 +1,10 @@
+name: OndariaCore
+author: Melv1n
+version: 1.0.0.0
+main: fr.ondaria.core.OndariaCore
+commands:
+  bvn:
+    aliases:
+      - b
+      - welcome
+  maintenance:

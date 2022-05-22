@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PlaceholderAPI-2.11.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/PlaceholderAPI-2.11.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mohist-1.12.2-320-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

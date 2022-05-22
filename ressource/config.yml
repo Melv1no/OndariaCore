@@ -1,0 +1,34 @@
+login_message:
+  enable: true
+  silent_join: "ondaria.core.login.silentjoin"
+  joining_message: "{player} viens de nous rejoindre !"
+  leaving_message: "{player} viens de nous quitter !"
+
+welcome:
+  enable: true
+  first_join_message: "{player} viens de se connecter pour la première fois souhaitez lui la bienvenue ! /b"
+  welcome_message: "Bienvenue et bon jeu à toi {player} !"
+  already_say_welcome: "Vous avez déjà souhaitez la bienvenue à {player} !"
+  reward: true
+  reward_command: "eco give {player} 50" # {player} définie le joueur executeur de la commande /b !
+
+maintenance:
+  # Utilisatation de la commande => /maintenance start / start now
+  #                                 /maintenance stop
+  enable: true
+  permission: "ondaria.core.maintenance"
+  permission_bypass: "ondaria.core.maintenance.bypass"
+  maintenance_message: "Le serveur va être en maintenance dans {time_left}s !"
+  kick_message: "Nous sommes en maintenance !"
+  time: 60
+  interval:
+    - 60
+    - 50
+    - 30
+    - 20
+    - 10
+    - 5
+    - 4
+    - 3
+    - 2
+    - 1
